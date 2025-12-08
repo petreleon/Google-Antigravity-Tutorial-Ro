@@ -6,7 +6,7 @@ Imaginează-ți că scrii un eseu lung. Din când în când, dai "Save As..." ș
 
 ## Pasul 1: Instalarea (dacă nu e deja instalat)
 
-Dacă ești pe Mac (ceea ce ești!), ai probabil deja Git. Deschide terminalul și scrie:
+Verifică dacă ai Git instalat deschizând terminalul și scriind:
 
 ```bash
 git --version
