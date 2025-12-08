@@ -1,75 +1,30 @@
-# Modulul 1: Bazele Git 💾
+# Modulul 1: Bazele Git - Călătoria în Timp ⏳
 
-Imaginează-ți că scrii un eseu lung. Din când în când, dai "Save As..." și îl numești "Eseu_v1", "Eseu_v2", "Eseu_Final_BUN".
+Bine ai venit în prima ta aventură reală ca programator.
 
-**Git** face fix asta pentru codul tău, dar mult mai inteligent. Este un sistem care ține minte istoria modificărilor tale.
+Aici nu vom vorbi despre cod, ci despre **Sistemul de Salvare**. Gândește-te la toate jocurile pe care le-ai jucat. Cât de frustrant ar fi să joci 10 ore, să mori la un boss și să trebuiască să o iei de la zero?
 
-## Pasul 1: Instalarea (dacă nu e deja instalat)
+**Git** este "Save Point"-ul tău în lumea reală.
 
-Verifică dacă ai Git instalat deschizând terminalul și scriind:
+Am pregătit 4 lecții speciale pentru tine:
 
-```bash
-git --version
-```
+1.  **[1.1 Conceptul: Mașina Timpului](./01_01_git_concept.md)**
+    *   De ce CTRL+Z nu e de ajuns.
+    *   Povestea manuscrisului pierdut.
 
-Dacă vezi un număr (ex: `git version 2.39.0`), ești gata!
+2.  **[1.2 Configurare: Pașaportul de Programator](./01_02_git_setup.md)**
+    *   Instalarea uneltelor.
+    *   Cum să te prezinți sistemului (User & Email).
 
-## Pasul 2: Inițializarea unui proiect
+3.  **[1.3 Fluxul de Lucru: Cutia, Sigiliul și Arhiva](./01_03_git_workflow.md)**
+    *   Cum să salvezi modificările (Init, Add, Commit).
+    *   Metafora coletului poștal.
 
-Când începi un proiect nou, trebuie să-i spui lui Git "Hei, urmărește dosarul ăsta!".
-
-Comanda magică este:
-
-```bash
-git init
-```
-
-Asta creează un dosar ascuns `.git` unde se ține toată istoria.
-
-## Pasul 3: "Salvarea" modificărilor
-
-În Git, salvarea se face în doi pași:
-
-1.  **Pregătirea (Stage)**: Alegi ce fișiere vrei să incluzi în salvare.
-    ```bash
-    git add .
-    ```
-    (Punctul `.` înseamnă "tot ce s-a schimbat").
-
-2.  **Confirmarea (Commit)**: Faci "poza" efectivă a codului și îi pui o etichetă.
-    ```bash
-    git commit -m "Mesaj care descrie ce am făcut"
-    ```
-
-### Exemplu concret:
-
-Să zicem că ai creat fișierul `README.md`.
-
-```bash
-git add README.md
-git commit -m "Adaugat introducere"
-```
-
-## Pasul 4: Verificarea stării
-
-Ca să vezi ce fișiere s-au modificat și nu au fost salvate încă:
-
-```bash
-git status
-```
-
-Ca să vezi istoricul salvărilor anterioare:
-
-```bash
-git log
-```
-
-## 🎯 Misiunea ta
-
-1.  Deschide terminalul.
-2.  Dă `git init` în acest folder (dacă nu e deja un repo git).
-3.  Dă `git add .` pentru a pregăti aceste fișiere noi.
-4.  Dă `git commit -m "Adaugat primele module de tutorial"` pentru a salva.
+4.  **[1.4 Istoricul: Jurnalul Căpitanului](./01_04_git_history.md)**
+    *   Cum să vezi ce ai făcut în trecut.
+    *   Cum să nu te pierzi în propriul cod.
 
 ---
-[Următorul pas: Modulul 2 - GitHub Basics](./02_github_basics.md)
+Ești gata? Să pornim mașina timpului!
+
+👉 **[Start: Lecția 1.1 - Conceptul](./01_01_git_concept.md)**
