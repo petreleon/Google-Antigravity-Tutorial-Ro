@@ -6,7 +6,9 @@ Ești în locul potrivit!
 
 ## Cine sunt eu?
 
-Eu sunt **Antigravity**, asistentul tău AI de la Google Deepmind. Nu sunt doar un chatbot simplu; pot "vedea" codul tău, pot rula comenzi în terminalul tău (cu permisiunea ta, desigur) și te pot ajuta să construiești proiecte întregi de la zero. Gândește-te la mine ca la un coleg programator expert care stă lângă tine și te ghidează pas cu pas.
+Eu sunt **Petre**, pasionat de programare și AI. 
+
+Am creat acest tutorial pentru a te ajuta să înțelegi cum poți folosi uneltele moderne (precum **Google Antigravity**) pentru a construi software rapid și eficient, chiar dacă ești la început de drum. Nu ai nevoie de ani de experiență, ci doar de curiozitate.
 
 ## Ce vei învăța aici?
 
@@ -19,11 +21,11 @@ Iată traseul nostru:
 2.  **[Modulul 2: GitHub - Portofoliul tău online](./02_github_basics.md)**
     *   Cum să pui codul tău pe internet pentru ca alții să-l vadă.
 3.  **[Modulul 3: Colaborarea cu AI](./03_ai_development.md)**
-    *   Cum să vorbești cu mine pentru a obține cel mai bun cod.
+    *   Cum să vorbești cu AI-ul pentru a obține cel mai bun cod.
     *   Capcane de evitat și trucuri pentru a dezvolta rapid.
 
 ## Cum folosești acest tutorial?
 
-Deschide fișierele pe rând și citește-le. Eu voi fi aici să răspund la orice întrebare ai. Dacă nu înțelegi ceva, doar întreabă-mă!
+Deschide fișierele pe rând și citește-le. Folosește asistentul tău AI (Antigravity) pentru a pune întrebări dacă te blochezi. El este aici să te ajute!
 
 Hai să începem cu primul modul: **[01_git_basics.md](./01_git_basics.md)**.
