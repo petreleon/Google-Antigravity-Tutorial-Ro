@@ -22,9 +22,9 @@ Manualul tău de vrăjitor conține 5 capitole:
     *   Transmutarea ideilor (Plumb) în cod (Aur).
     *   Legea schimbului echivalent.
 
-4.  **[3.4 Exorcismul (Debugging)](./03_04_debugging.md)**
-    *   Alungarea demonilor (Bugs) din codul tău.
-    *   Cum să citești runele de eroare.
+4.  **[3.4 Dresajul Dragonilor (Debugging)](./03_04_debugging.md)**
+    *   Cum să transformi o eroare într-o lecție.
+    *   Îmblânzirea micilor monștri digitali.
 
 5.  **[3.5 Iluziile și Sirenele (Capcane)](./03_05_pitfalls.md)**
     *   Când Djin-ul te minte ca să te facă fericit.
