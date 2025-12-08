@@ -30,4 +30,4 @@ Dacă îi dai un prompt leneș ("Fă o app"), vei primi un cod leneș.
 Dacă îi dai specificații detaliate, vei primi o capodoperă.
 
 ---
-👉 **[Lecția 3.4: Exorcismul](./03_04_debugging.md)**
+👉 **[Lecția 3.4: Dresajul Dragonilor](./03_04_debugging.md)**
