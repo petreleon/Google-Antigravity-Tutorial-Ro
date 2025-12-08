@@ -1,47 +1,33 @@
-# 3.3 Fluxul de Lucru (The Workflow) 🔄
+# 3.3 Alchimia: Transmutarea Ideilor în Aur ⚗️
 
-Cum arată o zi din viața unui programator care folosește AI? Nu e magie, e proces.
+Alchimia este procesul de transformare a unei idei vagi (plumb) în cod funcțional (aur).
 
-Acesta este **Ciclul PROD** (Planifică - Redactează - Observă - Depanează).
+Acesta este **Marele Cerc al Transmutării**:
 
-## 1. Planifică (Plan)
-Nu scrie cod imediat! Vorbește cu AI-ul despre *ce* vrei să faci.
+## 1. Faza de Proiectare (Desenarea Cercului)
+Nu începe să arunci ingrediente în ceaun!
+Discută cu AI-ul despre arhitectură.
+> "Vreau să fac o aplicație de Todo. Ce structură de fișiere îmi recomanzi? Să folosesc o bază de date sau un fișier text?"
 
-> "Vreau să fac un joc Snake în Python. Ce biblioteci îmi recomanzi? Cum ar trebui să structurăm codul?"
+## 2. Transmutarea Brută (Generarea)
+Cere codul pe bucăți mici. Nu încerca să transmuți totul odată, vei epuiza mana (și contextul).
+> "Generează doar fișierul `database.py` care se ocupă de salvare."
 
-Așteaptă răspunsul. Validarea planului este crucială. Dacă planul e prost, codul va fi prost.
+## 3. Testarea Purității (Verificarea)
+Ia "aurul" (codul) și testează-l. E aur adevărat sau e "aurul proștilor"?
+Rulează codul. Verifică dacă merge.
 
-## 2. Redactează (Draft)
-Aici folosești tehnicile de Prompt Engineering (Lecția 3.2).
+## 4. Rafinarea
+Dacă e impur, cere-i să îl rafineze.
+> "Codul merge, dar e prea lent. Optimizează-l."
 
-Cere codul pe bucăți!
-*   ❌ "Fă tot jocul." (Risc mare de erori)
-*   ✅ "Fă fereastra principală și bucla de joc. Nu adăuga încă șarpele."
+## Legea Schimbului Echivalent
 
-## 3. Observă (Observe)
-Ia codul, pune-l în editor și rulează-l.
+Nu poți primi nimic fără să dai ceva la schimb.
+Ca să primești cod bun, trebuie să dai **Context bun**.
 
-*   Merg import-urile?
-*   Apare fereastra?
-*   Se comportă cum trebuie?
-
-**NU** presupune că merge doar pentru că AI-ul a zis "Iată codul funcțional". Verifică!
-
-## 4. Depanează (Debug)
-Dacă merge, treci la următoarea funcționalitate ("Acum adaugă șarpele").
-Dacă NU merge, intrăm în faza de Debugging (vezi Lecția 3.4).
-
-## Exemplu de Sesiune
-
-1.  **Tu**: "Vreau un script care descarcă videoclipuri de pe YouTube."
-2.  **AI**: "Putem folosi `yt-dlp`. Iată planul..."
-3.  **Tu**: "Arată bine. Dă-mi codul pentru instalare și descărcarea unui singur video."
-4.  **AI**: (Generează cod)
-5.  **Tu**: (Rulezi codul) -> *Eroare: Library not found*
-6.  **Tu**: "Am primit eroarea asta..."
-7.  **AI**: "Ah, trebuie să instalezi librăria cu `pip install...`"
-
-Și tot așa, pas cu pas, până termini proiectul.
+Dacă îi dai un prompt leneș ("Fă o app"), vei primi un cod leneș.
+Dacă îi dai specificații detaliate, vei primi o capodoperă.
 
 ---
-[Mergi la Lecția 3.4: Debugging](./03_04_debugging.md)
+👉 **[Lecția 3.4: Exorcismul](./03_04_debugging.md)**

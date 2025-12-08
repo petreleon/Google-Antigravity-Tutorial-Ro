@@ -1,52 +1,40 @@
-# 3.2 Prompt Engineering: Arta de a Cere 🗣️
+# 3.2 Incantațiile (Prompt Engineering) 📜
 
-"Prompt Engineering" sună complicat, dar e simplu: înseamnă **să știi să ceri ca să primești ce vrei**.
+În magie, cuvintele contează.
+*   "Wingardium Leviosa" face pana să zboare.
+*   "Wingardium LeviosAAA" îți explodează în față.
 
-AI-ul este un "literalist". Dacă ceri prost, primești prost.
+În AI, aceste cuvinte magice se numesc **Prompt-uri**.
 
-## 1. Structura unui Prompt Perfect
+## Grimoarul (Cartea de Vrăji)
 
-Un prompt bun ar trebui să aibă 3 elemente:
+O incantație puternică are 3 ingrediente:
 
-1.  **Rolul**: Cine vrei să fie AI-ul?
-2.  **Contextul**: Ce știi tu și ce vrei să afli?
-3.  **Formatul**: Cum vrei să arate răspunsul?
+### 1. Persona (Masca) 🎭
+Spune-i Duhului cine trebuie să fie.
+> "Acționează ca un Senior Python Developer cu 20 de ani de experiență, care urăște codul ineficient."
 
-### Exemplu PROST ❌
-> "Fă-mi o pagină web."
+### 2. Misiunea (Intenția) 🎯
+Descrie clar ce vrei să obții.
+> "Vreau să creăm un script care sortează automat pozele din folderul 'Downloads' după dată."
 
-### Exemplu BUN ✅
-> "**(Rol)** Vreau să acționezi ca un expert în Web Design și HTML5.
-> **(Context)** Creează o pagină de pornire pentru o pizzerie numită 'Luigi'. Vrem să aibă un meniu simplu, o poză de fundal și un formular de contact. Folosește culorile steagului Italiei.
-> **(Format)** Dă-mi codul într-un singur fișier `index.html` cu CSS inclus în tag-ul `<style>`."
+### 3. Constrângerile (Legile) ⛓️
+Pune limite puterii lui.
+> "Folosește doar librăria standard. Nu folosi biblioteci externe. Explică fiecare pas în limba română."
 
-## 2. Tehnici Avansate (dar Simple)
+## Tehnici Avansate de Vrăjitorie
 
-### A. Few-Shot Prompting (Dă-i exemple)
-În loc să explici teoria, dă-i un exemplu de cum vrei să arate rezultatul.
+### ✨ Invocația "Chain of Thought"
+Când problema e grea, spune-i: **"Gândește pas cu pas."**
+Asta îl forțează pe Djin să nu se grăbească și reduce șansa de a da greș.
 
-> "Vreau să transformi numele de orașe în format JSON.
-> Exemplu:
-> Input: București
-> Output: { 'oras': 'București', 'tara': 'România' }
->
-> Input: Paris
-> Output: ..."
+### ✨ Invocația "Few-Shot"
+Nu îi explica, arată-i.
+> "Transformă asta: Mere -> Fruct
+> Transformă asta: Morcov -> Legumă
+> Transformă asta: Audi -> ?"
 
-### B. Chain of Thought (Gândește cu voce tare)
-Când ai o problemă de logică, cere-i AI-ului să o rezolve pas cu pas.
-
-> "Calculează câți bani am nevoie pentru vacanță. **Gândește pas cu pas și explică fiecare calcul înainte să dai totalul.**"
-
-Asta reduce drastic greșelile de calcul.
-
-### C. "Refuză să ghicești"
-Uneori AI-ul inventează. Poți să adaugi asta în prompt:
-
-> "...Dacă nu știi răspunsul sau nu ești sigur, spune-mi 'Nu știu', nu inventa informații."
-
-## Exercițiu
-Încearcă să ceri un script Python care să sorteze fișierele dintr-un folder pe categorii (poze, documente, etc). Folosește structura de mai sus (Rol, Context, Format).
+Asta calibrează vraja instantaneu.
 
 ---
-[Mergi la Lecția 3.3: Fluxul de Lucru](./03_03_ai_workflow.md)
+👉 **[Lecția 3.3: Alchimia](./03_03_ai_workflow.md)**

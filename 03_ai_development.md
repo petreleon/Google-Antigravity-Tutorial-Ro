@@ -1,31 +1,36 @@
-# Modulul 3: Colaborarea cu AI - Cuprins 🤖
+# Modulul 3: Arta Invocării (AI) 🔮
 
-Acesta este cel mai important capitol din călătoria ta. Aici vom învăța cum să folosim **Antigravity** (și inteligența artificială în general) pentru a programa la un nivel pe care nu l-ai fi crezut posibil pentru un începător.
+Bine ai venit la Școala de Magie Digitală.
 
-Am împărțit acest modul în 5 lecții esențiale:
+Până acum ai învățat să folosești un ciocan (Git) și să construiești un depozit (GitHub). Destul de plictisitor, nu-i așa?
 
-1.  **[3.1 Fundamente: Mindset-ul Corect](./03_01_ai_fundamentals.md)**
-    *   De ce AI-ul nu este o baghetă magică.
-    *   Rolul tău vs. Rolul AI-ului.
-    *   Ce este "Fereastra de Context"?
+Acum vom învăța să **invocăm** codul din eter.
 
-2.  **[3.2 Prompt Engineering: Arta de a Cere](./03_02_prompt_engineering.md)**
-    *   Cum să vorbești ca să fii înțeles.
-    *   Tehnici avansate: Role-playing, Chain-of-Thought.
-    *   Exemple de prompt-uri bune vs. proaste.
+**Antigravity** (și orice AI modern) este ca un Djin (Duh) extrem de puternic. Poți să îi ceri orice, dar trebuie să ai grijă *cum* ceri.
 
-3.  **[3.3 Fluxul de Lucru (Workflow)](./03_03_ai_workflow.md)**
-    *   Bucla de dezvoltare: Idee -> Prompt -> Cod -> Verificare.
-    *   Cum să construiești pas cu pas (iterativ).
+Manualul tău de vrăjitor conține 5 capitole:
 
-4.  **[3.4 Debugging cu AI](./03_04_debugging.md)**
-    *   Ce faci când codul nu merge?
-    *   Cum să folosești erorile în avantajul tău.
-    *   Explicarea codului complex.
+1.  **[3.1 Fundamentele Magiei: Spiritul din Lampă](./03_01_ai_fundamentals.md)**
+    *   Natura entității cu care lucrezi.
+    *   De ce puterea infinită are limite.
 
-5.  **[3.5 Capcane și Limite](./03_05_pitfalls.md)**
-    *   Hallucinations: Când AI-ul minte cu încredere.
-    *   Securitate: Ce să NU îi spui niciodată unui AI.
+2.  **[3.2 Incantațiile (Prompt Engineering)](./03_02_prompt_engineering.md)**
+    *   Cuvintele au putere. O silabă greșită schimbă vraja.
+    *   Cum să scrii incantații perfecte.
+
+3.  **[3.3 Alchimia (Fluxul de Lucru)](./03_03_ai_workflow.md)**
+    *   Transmutarea ideilor (Plumb) în cod (Aur).
+    *   Legea schimbului echivalent.
+
+4.  **[3.4 Exorcismul (Debugging)](./03_04_debugging.md)**
+    *   Alungarea demonilor (Bugs) din codul tău.
+    *   Cum să citești runele de eroare.
+
+5.  **[3.5 Iluziile și Sirenele (Capcane)](./03_05_pitfalls.md)**
+    *   Când Djin-ul te minte ca să te facă fericit.
+    *   Secretele pe care nu trebuie să le șoptești niciodată.
 
 ---
-Te rog să începi cu **[Lecția 3.1: Fundamente](./03_01_ai_fundamentals.md)**.
+Ia-ți bagheta (tastatura) și hai să începem.
+
+👉 **[Lecția 3.1: Spiritul din Lampă](./03_01_ai_fundamentals.md)**

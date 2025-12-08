@@ -1,46 +1,32 @@
-# 3.4 Debugging cu AI 🐞
+# 3.4 Exorcismul: Alungarea Demonilor ⚔️
 
-Eroarea (Bug-ul) este parte din viață. Cu AI, repararea ei devine mult mai puțin frustrantă.
+Uneori, codul tău va fi posedat. Vor apărea erori roșii, înspăimântătoare. Lucrurile nu vor merge.
 
-## "Doctorul" de cod
+Aceste spirite rele se numesc **Bugs**.
 
-Când ai o eroare, tratează-o ca pe un simptom pe care îl prezinți doctorului (AI-ul).
+Dar tu ai un aliat puternic: AI-ul este Marele Exorcist.
 
-### Cum să raportezi o eroare:
+## Ritualul de Exorcizare
 
-1.  **Dă-i tot mesajul de eroare**: Copiază tot textul roșu din terminal, chiar dacă nu îl înțelegi.
-2.  **Dă-i codul relevant**: Arată-i funcția unde a apărut eroarea.
-3.  **Spune-i ce făceai**: "A apărut când am apăsat pe butonul de Login".
+1.  **Identifică Demonul**: Copiază mesajul de eroare (tot textul roșu și urât). Ăla e Numele Adevărat al demonului.
+2.  **Prezintă Ofranda**: Arată-i codul care a cauzat problema.
+3.  **Rostește Incantația**:
 
-### Prompt-ul Magic ✨
-
-> "Am primit eroarea asta:
-> [Paste Error Here]
+> "Sfinte AI, am fost blestemat cu eroarea:
+> [Paste Eroare]
 >
-> Aici este codul meu:
-> [Paste Code Here]
+> Codul meu este acesta:
+> [Paste Cod]
 >
-> Explică-mi de ce apare și dă-mi codul corectat."
+> Izgonește demonul și explică-mi cum a intrat!"
 
-## Explicarea Codului Complex
+## Citirea Runelor
 
-Uneori, AI-ul scrie cod care "merge", dar arată ca o limbă străină pentru tine. Nu îl copia orbește!
+Uneori codul e prea complex, ca un text antic indescifrabil.
+Cere-i AI-ului să traducă:
+> "Explică-mi acest bloc de cod ca și cum aș fi un ucenic de anul 1."
 
-Cere explicații:
-
-> "Poți să îmi explici linia `[linie de cod]` ca și cum aș avea 10 ani? Ce face exact?"
-
-Sau:
-
-> "Adaugă comentarii la fiecare linie din acest cod ca să înțeleg logica."
-
-## Refactoring (Curățenie)
-
-După ce codul merge, roagă-l să facă curat.
-
-> "Codul merge, dar funcția `main()` e uriașă. Poți să o spargi în funcții mai mici și să folosești nume de variabile mai descriptive?"
-
-Asta te va ajuta enorm pe termen lung.
+Odată ce înțelegi cum funcționează blestemul, îl poți preveni pe viitor.
 
 ---
-[Mergi la Lecția 3.5: Capcane și Limite](./03_05_pitfalls.md)
+👉 **[Lecția 3.5: Iluziile și Sirenele](./03_05_pitfalls.md)**

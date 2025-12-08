@@ -1,43 +1,36 @@
-# 3.5 Capcane și Limite 🚧
+# 3.5 Iluziile și Sirenele 🧜‍♀️
 
-Cu mare putere vine și mare responsabilitate (și câteva pericole).
+Navigarea pe mările AI-ului este periculoasă. Există capcane care pot scufunda corabia unui începător.
 
-## 1. "Hallucinations" (Halucinații)
+## 1. Cântecul Sirenei (Halucinațiile)
 
-AI-ul este antrenat să fie **de ajutor**, nu neapărat să fie **corect**. Uneori, dacă nu știe răspunsul, va inventa unul care *sună* plauzibil pentru a te mulțumi.
+Djin-ul vrea să te mulțumească. E disperat să fie util.
+Așa că, uneori, dacă nu știe răspunsul... **MINTE**.
 
-### Exemplu clasic:
-Tu ceri o bibliotecă pentru o funcție obscură. AI-ul îți dă un nume: `pip install super-library-x`. Tu încerci și... nu există.
+Îți va da o bibliotecă care nu există. Îți va cita o lege care nu există. O va spune cu atâta încredere încât îl vei crede.
 
-**Soluția**: Verifică întotdeauna dacă bibliotecile sau link-urile recomandate chiar există.
+**Antidot**: Verifică. Întotdeauna. Dacă îți dă un link, dă click pe el. Dacă îți dă o comandă dubioasă, nu o rula fără să întrebi.
 
-## 2. Securitatea Datelor 🔒
+## 2. Șoaptele în Vid (Secretele)
 
-Acesta este cel mai important punct din tot capitolul.
+Nu șopti niciodată Numele Tău Adevărat (Parole, API Keys, Date Personale) în urechea AI-ului.
+Ce îi spui, rămâne în eter. Poate fi folosit pentru a antrena viitoarele modele.
 
-**NU TRIMITE NICIODATĂ DATE SECRETE UNUI AI.**
+Dacă trebuie să îi dai cod secret, pune o mască:
+`API_KEY = "SECRETUL_SUPREM"` -> `API_KEY = "XXX"`
 
-*   ❌ Parole.
-*   ❌ Chei API (API Keys).
-*   ❌ Date personale (CNP, Carduri).
-*   ❌ Secrete comerciale ale companiei (dacă nu ai aprobare).
+## 3. Cunoașterea Înghețată (Cutoff Date)
 
-Aceste conversații pot fi folosite pentru antrenarea viitoarelor modele. Consideră conversația ca fiind **Publică**.
+Gândește-te că AI-ul a citit toate cărțile din lume, dar biblioteca s-a închis în 2023. Nu știe ce s-a întâmplat ieri, decât dacă are o "Oglindă Magică" (browsing). Antigravity are, dar alții nu.
 
-### Cum faci dacă ai nevoie de ajutor cu cod care conține parole?
-Anonimizează codul înainte să îl dai. În loc de `password="Secret123"`, pune `password="***"`.
+## Felicitări, Arhimagule! 🎓
 
-## 3. Cunoștințe "Expirate" (Cutoff Date)
+Ai completat "Trilogia Dezvoltatorului":
+1.  **Git** (Călătoria în Timp) ⏳
+2.  **GitHub** (Rețeaua Socială) 🌐
+3.  **AI** (Magia Invocării) 🔮
 
-Modelele AI sunt antrenate pe date până la un anumit an (ex: 2023). Ele nu știu ce bibliotecă s-a lansat ieri, decât dacă au acces la internet (cum are Antigravity prin Google Search).
-
-Dacă folosești un framework care se schimbă des (ca Next.js sau librării noi de AI), specifică-i versiunea: "Folosesc Next.js versiunea 14".
-
-## Felicitări! 🎉
-
-Ai terminat Modulul 3! Acum știi nu doar să scrii cod, ci să "manageriezi" un asistent AI pentru a scrie cod pentru tine.
-
-Ești gata să construiești orice.
+Lumea este a ta. Du-te și construiește ceva magic!
 
 ---
 [Înapoi la Cuprinsul Modulului](./03_ai_development.md) | [Înapoi la Începutul Tutorialului](./README.md)
