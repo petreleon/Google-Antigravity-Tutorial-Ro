@@ -1,5 +1,7 @@
 # Tutorial Dezvoltare Software cu AI (Google Antigravity)
 
+![Intro](./Intro.png)
+
 Salut! 👋 Bine ai venit în acest tutorial interactiv. Dacă citești asta, probabil vrei să înveți cum să creezi software, dar nu știi de unde să începi.
 
 Ești în locul potrivit!
