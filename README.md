@@ -28,6 +28,6 @@ Iată traseul nostru:
 
 ## Cum folosești acest tutorial?
 
-Deschide fișierele pe rând și citește-le. Folosește asistentul tău AI (Antigravity) pentru a pune întrebări dacă te blochezi. El este aici să te ajute!
+Deschide fișierele pe rând și citește-le.
 
 Hai să începem cu primul modul: **[01_git_basics.md](./01_git_basics.md)**.
