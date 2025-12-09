@@ -23,6 +23,8 @@ Iată traseul nostru:
 3.  **[Modulul 3: Colaborarea cu AI](./03_ai_development.md)**
     *   Cum să vorbești cu AI-ul pentru a obține cel mai bun cod.
     *   Capcane de evitat și trucuri pentru a dezvolta rapid.
+4.  **[Modulul 4: Google Antigravity - Programarea pe "Pilot Automat"](./04_google_antigravity.md)**
+    *   Cum să folosești noul IDE bazat pe agenți pentru a codifica cu viteza luminii.
 
 ## Cum folosești acest tutorial?
 
